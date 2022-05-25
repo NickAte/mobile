@@ -10,7 +10,7 @@ public class Main {
         } else {
             bonus = 0;
         }
-        System.out.println("Баланс: " + (balans + refill));
+        System.out.println("Баланс: " + (balans+refill));
         System.out.println("Начислено бонусов: " + bonus);
     }
 }
